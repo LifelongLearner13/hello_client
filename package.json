@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LifelongLearner13/hello_client/issues"
   },
-  "homepage": "https://github.com/LifelongLearner13/hello_client#readme"
+  "homepage": "https://github.com/LifelongLearner13/hello_client#readme",
+  "dependencies": {
+    "unirest": "^0.5.0"
+  }
 }
